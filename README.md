@@ -1,0 +1,1 @@
+A page that displays a dashboard, used to practice grid layout and not intended to be interactive yet
